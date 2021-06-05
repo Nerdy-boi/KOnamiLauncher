@@ -1,0 +1,10 @@
+C:\Users\pokem\source\repos\KOnami Launcher\bin\Debug\KOnami Launcher.exe.config
+C:\Users\pokem\source\repos\KOnami Launcher\bin\Debug\KOnami Launcher.exe
+C:\Users\pokem\source\repos\KOnami Launcher\bin\Debug\KOnami Launcher.pdb
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami Launcher.csprojAssemblyReference.cache
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami_Launcher.Form1.resources
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami_Launcher.Properties.Resources.resources
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami Launcher.csproj.GenerateResource.cache
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami Launcher.csproj.CoreCompileInputs.cache
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami Launcher.exe
+C:\Users\pokem\source\repos\KOnami Launcher\obj\Debug\KOnami Launcher.pdb

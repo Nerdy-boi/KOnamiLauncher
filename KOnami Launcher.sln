@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOnami Launcher", "KOnami Launcher.csproj", "{23B12E22-E206-4FDB-B1D2-3BBD1F0A5A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B12E22-E206-4FDB-B1D2-3BBD1F0A5A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B12E22-E206-4FDB-B1D2-3BBD1F0A5A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B12E22-E206-4FDB-B1D2-3BBD1F0A5A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B12E22-E206-4FDB-B1D2-3BBD1F0A5A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C649C07D-0A2F-4DAC-A68F-5E022605213B}
+	EndGlobalSection
+EndGlobal
